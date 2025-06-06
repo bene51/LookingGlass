@@ -13,7 +13,7 @@
 
 	<groupId>sc.fiji</groupId>
 	<artifactId>Looking_Glass</artifactId>
-	<version>0.1.0-SNAPSHOT</version>
+	<version>0.1.0</version>
 
 	<name>Looking Glass</name>
 	<description>ImageJ/Fiji plugin to create a quilt image from a 3D stack and upload it to a Looking Glass display (https://lookingglassfactory.com/), using 3Dscript.</description>
